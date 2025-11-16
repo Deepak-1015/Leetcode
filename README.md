@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-1015/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/Deepak-1015/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Deepak-1015/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Deepak-1015/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepak-1015/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Deepak-1015/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak-1015/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Deepak-1015/Leetcode/tree/master/0049-group-anagrams) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Deepak-1015/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Deepak-1015/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Deepak-1015/Leetcode/tree/master/0620-not-boring-movies) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
