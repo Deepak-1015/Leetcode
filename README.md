@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak-1015/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Deepak-1015/Leetcode/tree/master/0049-group-anagrams) |
+| [0227-basic-calculator-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepak-1015/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-1015/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-1015/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Greedy
 |  |
 | ------- |
