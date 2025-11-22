@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Deepak-1015/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Deepak-1015/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepak-1015/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Deepak-1015/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-1015/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Deepak-1015/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
 | ------- |
