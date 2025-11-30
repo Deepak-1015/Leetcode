@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Deepak-1015/Leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Deepak-1015/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Deepak-1015/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Deepak-1015/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deepak-1015/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepak-1015/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Deepak-1015/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepak-1015/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepak-1015/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Deepak-1015/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Deepak-1015/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,9 +156,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Deepak-1015/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
