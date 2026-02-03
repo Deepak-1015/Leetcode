@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepak-1015/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Deepak-1015/Leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Deepak-1015/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepak-1015/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-1015/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Deepak-1015/Leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/Deepak-1015/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Deepak-1015/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepak-1015/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/Deepak-1015/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -204,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Deepak-1015/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Deepak-1015/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
