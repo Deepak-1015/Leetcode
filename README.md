@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Deepak-1015/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepak-1015/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/Deepak-1015/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0858-mirror-reflection](https://github.com/Deepak-1015/Leetcode/tree/master/0858-mirror-reflection) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Deepak-1015/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Deepak-1015/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Deepak-1015/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -207,4 +208,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Deepak-1015/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Deepak-1015/Leetcode/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/Deepak-1015/Leetcode/tree/master/0858-mirror-reflection) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Deepak-1015/Leetcode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
