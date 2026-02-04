@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Deepak-1015/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0858-mirror-reflection](https://github.com/Deepak-1015/Leetcode/tree/master/0858-mirror-reflection) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Deepak-1015/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1492-the-kth-factor-of-n](https://github.com/Deepak-1015/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2485-find-the-pivot-integer](https://github.com/Deepak-1015/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Deepak-1015/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-1015/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Deepak-1015/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Deepak-1015/Leetcode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/Deepak-1015/Leetcode/tree/master/0858-mirror-reflection) |
+| [1492-the-kth-factor-of-n](https://github.com/Deepak-1015/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Geometry
 |  |
 | ------- |
