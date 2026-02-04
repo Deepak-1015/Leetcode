@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepak-1015/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Deepak-1015/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Deepak-1015/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Deepak-1015/Leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Deepak-1015/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepak-1015/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deepak-1015/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepak-1015/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/Deepak-1015/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Deepak-1015/Leetcode/tree/master/0134-gas-station) |
+| [0561-array-partition](https://github.com/Deepak-1015/Leetcode/tree/master/0561-array-partition) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Deepak-1015/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
