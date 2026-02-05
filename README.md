@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepak-1015/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Deepak-1015/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Deepak-1015/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3379-transformed-array](https://github.com/Deepak-1015/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-1015/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Deepak-1015/Leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Deepak-1015/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepak-1015/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3379-transformed-array](https://github.com/Deepak-1015/Leetcode/tree/master/3379-transformed-array) |
 ## Math
 |  |
 | ------- |
