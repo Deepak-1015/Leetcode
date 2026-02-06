@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Deepak-1015/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Deepak-1015/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Deepak-1015/Leetcode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Deepak-1015/Leetcode/tree/master/0065-valid-number) |
 | [0227-basic-calculator-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Deepak-1015/Leetcode/tree/master/0344-reverse-string) |
 | [1447-simplified-fractions](https://github.com/Deepak-1015/Leetcode/tree/master/1447-simplified-fractions) |
