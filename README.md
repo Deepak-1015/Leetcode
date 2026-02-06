@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepak-1015/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Deepak-1015/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0047-permutations-ii) |
 ## Sorting
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak-1015/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Deepak-1015/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Deepak-1015/Leetcode/tree/master/0049-group-anagrams) |
 | [0227-basic-calculator-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Deepak-1015/Leetcode/tree/master/0344-reverse-string) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepak-1015/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepak-1015/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Deepak-1015/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
