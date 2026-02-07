@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Deepak-1015/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepak-1015/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2716-minimize-string-length](https://github.com/Deepak-1015/Leetcode/tree/master/2716-minimize-string-length) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Deepak-1015/Leetcode/tree/master/0344-reverse-string) |
 | [1447-simplified-fractions](https://github.com/Deepak-1015/Leetcode/tree/master/1447-simplified-fractions) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak-1015/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2716-minimize-string-length](https://github.com/Deepak-1015/Leetcode/tree/master/2716-minimize-string-length) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
