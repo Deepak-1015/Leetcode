@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Deepak-1015/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0888-fair-candy-swap](https://github.com/Deepak-1015/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak-1015/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Deepak-1015/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Deepak-1015/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Deepak-1015/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Deepak-1015/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak-1015/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Deepak-1015/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Deepak-1015/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepak-1015/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/Deepak-1015/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0858-mirror-reflection](https://github.com/Deepak-1015/Leetcode/tree/master/0858-mirror-reflection) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak-1015/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Deepak-1015/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Deepak-1015/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/Deepak-1015/Leetcode/tree/master/1447-simplified-fractions) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak-1015/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Deepak-1015/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Deepak-1015/Leetcode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/Deepak-1015/Leetcode/tree/master/0858-mirror-reflection) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak-1015/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Deepak-1015/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/Deepak-1015/Leetcode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/Deepak-1015/Leetcode/tree/master/1492-the-kth-factor-of-n) |
