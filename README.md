@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Deepak-1015/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Deepak-1015/Leetcode/tree/master/0620-not-boring-movies) |
 | [1193-monthly-transactions-i](https://github.com/Deepak-1015/Leetcode/tree/master/1193-monthly-transactions-i) |
+| [1934-confirmation-rate](https://github.com/Deepak-1015/Leetcode/tree/master/1934-confirmation-rate) |
 ## Counting Sort
 |  |
 | ------- |
