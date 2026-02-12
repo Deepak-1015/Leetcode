@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Deepak-1015/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepak-1015/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2716-minimize-string-length](https://github.com/Deepak-1015/Leetcode/tree/master/2716-minimize-string-length) |
+| [3713-longest-balanced-substring-i](https://github.com/Deepak-1015/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Deepak-1015/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak-1015/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2716-minimize-string-length](https://github.com/Deepak-1015/Leetcode/tree/master/2716-minimize-string-length) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3713-longest-balanced-substring-i](https://github.com/Deepak-1015/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak-1015/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3713-longest-balanced-substring-i](https://github.com/Deepak-1015/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Deepak-1015/Leetcode/tree/master/0204-count-primes) |
+| [3713-longest-balanced-substring-i](https://github.com/Deepak-1015/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
