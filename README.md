@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deepak-1015/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepak-1015/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Deepak-1015/Leetcode/tree/master/0344-reverse-string) |
+| [2396-strictly-palindromic-number](https://github.com/Deepak-1015/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/Deepak-1015/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/Deepak-1015/Leetcode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/Deepak-1015/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [2396-strictly-palindromic-number](https://github.com/Deepak-1015/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Deepak-1015/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Deepak-1015/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Deepak-1015/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Deepak-1015/Leetcode/tree/master/0292-nim-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Deepak-1015/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+| [2396-strictly-palindromic-number](https://github.com/Deepak-1015/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Probability and Statistics
 |  |
 | ------- |
