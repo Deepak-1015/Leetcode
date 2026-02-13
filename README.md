@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Deepak-1015/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-1015/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Deepak-1015/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Deepak-1015/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Deepak-1015/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Deepak-1015/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Deepak-1015/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Deepak-1015/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Database
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Deepak-1015/Leetcode/tree/master/0292-nim-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Deepak-1015/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/Deepak-1015/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Deepak-1015/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Probability and Statistics
 |  |
 | ------- |
