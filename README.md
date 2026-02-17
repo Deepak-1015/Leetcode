@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Deepak-1015/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Deepak-1015/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0047-permutations-ii) |
+| [0401-binary-watch](https://github.com/Deepak-1015/Leetcode/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Deepak-1015/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Deepak-1015/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/Deepak-1015/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Deepak-1015/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Deepak-1015/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deepak-1015/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
