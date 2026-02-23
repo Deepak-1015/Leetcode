@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Deepak-1015/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak-1015/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Deepak-1015/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-1015/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Deepak-1015/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepak-1015/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak-1015/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Deepak-1015/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1447-simplified-fractions](https://github.com/Deepak-1015/Leetcode/tree/master/1447-simplified-fractions) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-1015/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak-1015/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2716-minimize-string-length](https://github.com/Deepak-1015/Leetcode/tree/master/2716-minimize-string-length) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Deepak-1015/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Deepak-1015/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-1015/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deepak-1015/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Database
 |  |
@@ -327,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Deepak-1015/Leetcode/tree/master/0292-nim-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-1015/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-1015/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
