@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak-1015/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Deepak-1015/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Deepak-1015/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-1015/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Deepak-1015/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Deepak-1015/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/0912-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-1015/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-1015/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Deepak-1015/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak-1015/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-1015/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak-1015/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Deepak-1015/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Deepak-1015/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak-1015/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-1015/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deepak-1015/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Database
