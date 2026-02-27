@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-1015/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Deepak-1015/Leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Deepak-1015/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Deepak-1015/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Deepak-1015/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/Deepak-1015/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Deepak-1015/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Deepak-1015/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Deepak-1015/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/Deepak-1015/Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Deepak-1015/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/Deepak-1015/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Deepak-1015/Leetcode/tree/master/0645-set-mismatch) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak-1015/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Deepak-1015/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
