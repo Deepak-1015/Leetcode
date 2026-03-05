@@ -1,21 +1,15 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        int st=0;
-        int ed=nums.length-1;
+        List<Integer> li=new ArrayList<>();
 
-        while(st<=ed){
-            int mid=st+(ed-st)/2;
-
-            if(nums[mid]==target){
-                return mid;
-            }
-            else if(nums[mid]>target){
-                ed=mid-1;
-            }
-            else{
-                st=mid+1;
-            }
+        for(int i:nums){
+            li.add(i);
         }
-        return st;
+        int pos=Collections.binarySearch(li,target);
+
+        if(pos<0){
+            pos=-(pos+1);
+        }
+        return pos;
     }
 }
