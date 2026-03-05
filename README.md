@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak-1015/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak-1015/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak-1015/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Deepak-1015/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2716-minimize-string-length](https://github.com/Deepak-1015/Leetcode/tree/master/2716-minimize-string-length) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
