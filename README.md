@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak-1015/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Deepak-1015/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Deepak-1015/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak-1015/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Deepak-1015/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2716-minimize-string-length](https://github.com/Deepak-1015/Leetcode/tree/master/2716-minimize-string-length) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepak-1015/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Deepak-1015/Leetcode/tree/master/0118-pascals-triangle) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Deepak-1015/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak-1015/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak-1015/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak-1015/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepak-1015/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak-1015/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Deepak-1015/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
