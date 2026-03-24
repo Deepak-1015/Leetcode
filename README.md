@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Deepak-1015/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Deepak-1015/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Deepak-1015/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Deepak-1015/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Deepak-1015/Leetcode/tree/master/0049-group-anagrams) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deepak-1015/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepak-1015/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Deepak-1015/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Deepak-1015/Leetcode/tree/master/0118-pascals-triangle) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Deepak-1015/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Deepak-1015/Leetcode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Deepak-1015/Leetcode/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/Deepak-1015/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Deepak-1015/Leetcode/tree/master/0605-can-place-flowers) |
